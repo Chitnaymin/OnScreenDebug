@@ -7,5 +7,8 @@ public class TestingScript : MonoBehaviour {
     // Use SDebug instant of Debug but string only
     void Start() {
         SDebug.Log("abc");
+
+
+        Debug.Log("ahhah");
     }
 }
